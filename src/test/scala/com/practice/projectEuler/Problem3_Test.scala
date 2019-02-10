@@ -4,7 +4,7 @@ import org.junit.Assert.assertTrue
 import org.junit.Test
 
 @Test
-class problem3_Test {
+class Problem3_Test {
 
   /**
     * The prime factors of 13195 are 5, 7, 13 and 29.
